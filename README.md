@@ -1,3 +1,7 @@
-Name|Phone|Address
-:---:|:---:|:---:
-Manas Ajay Peshwe|1234567890|B2 Meridian Status <br> Vishrambag Colony, <br>Aurangabad
+Name|Roll Number|Class|Batches (Prac/Tut)|
+:---:|:---:|:---:|:---:
+**Manas Ajay Peshwe**|**216**|**SEB**|**S1/T1**
+
+This is an recursive program for **BINARY SEARCH** :
+<br>
+<center><img src = "/home/manas/Desktop/BinarySearch.jpg" width=500; height = 700></center>
