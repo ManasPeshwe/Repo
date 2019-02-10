@@ -4,4 +4,4 @@ Name|Roll Number|Class|Batches (Prac/Tut)|
 
 This is an recursive program for **BINARY SEARCH** :
 <br>
-<center><img src = "/home/manas/Desktop/BinarySearch.jpg" width=500; height = 700></center>
+<center><img src = "/home/manas/Desktop/BinarySearch.jpg" width=50%; height = 50%></center>
