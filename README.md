@@ -4,7 +4,8 @@ Name|Roll Number|Class|Batches (Prac/Tut)|
 
 This is an recursive program for **BINARY SEARCH** :
 <br>
-'''c
+```c
+char s[] = "c "
 #include<stdio.h>
 #include<stdlib.h>
 void main(){
@@ -15,4 +16,4 @@ void main(){
         }
 }            
 //This is awesome!
-'''
+```
