@@ -4,4 +4,15 @@ Name|Roll Number|Class|Batches (Prac/Tut)|
 
 This is an recursive program for **BINARY SEARCH** :
 <br>
-<center><img src = "/home/manas/Desktop/BinarySearch.png"></center>
+'''c
+#include<stdio.h>
+#include<stdlib.h>
+void main(){
+        int n;
+        for(int i=0 ; i<10 ; i++){
+                    n =rand()%100 +1;
+                    printf("%d\n",n);
+        }
+}            
+//This is awesome!
+'''
