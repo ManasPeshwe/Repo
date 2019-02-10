@@ -17,3 +17,8 @@ void main(){
 }            
 //This is awesome!
 ```
+The **OUTPUT** of the above Program is :
+<br>
+<center>
+<img src = "RandomOUTPUT.png" width = 80% ; height = 80%>
+</center>
