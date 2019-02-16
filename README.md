@@ -15,10 +15,11 @@ void main(){
                     printf("%d\n",n);
         }
 }       
-     
-<img src = "https://gph.is/1eX1gZt"/>
+
 //This is awesome!
 ```
+<img src = "https://gph.is/1eX1gZt"/>
+
 The **OUTPUT** of the above Program is :
 <br>
 <center>
