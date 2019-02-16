@@ -14,7 +14,8 @@ void main(){
                     n =rand()%100 +1;
                     printf("%d\n",n);
         }
-}            
+}       
+     
 <img src = "https://gph.is/1eX1gZt"/>
 //This is awesome!
 ```
