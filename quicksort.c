@@ -1,32 +1,3 @@
-Name|Roll Number|Class|Batches (Prac/Tut)|
-:---:|:---:|:---:|:---:
-**Manas Ajay Peshwe**|**216**|**SEB**|**S1/T1**
-
-This is an recursive program for **BINARY SEARCH** :
-<br>
-```c
-char s[] = "c "
-#include<stdio.h>
-#include<stdlib.h>
-void main(){
-        int n;
-        for(int i=0 ; i<10 ; i++){
-                    n =rand()%100 +1;
-                    printf("%d\n",n);
-        }
-}       
-
-//This is awesome!
-```
-
-The **OUTPUT** of the above Program is :
-<br>
-<center>
-<img src = "images/RandomOUTPUT.png" width = 80% ; height = 80%>
-</center>
-<hr>
-The **Program for QUICK SORT** :
-```c
 #include<stdio.h>
 #include<stdlib.h>
 //Just for swapping stuff.
@@ -38,7 +9,7 @@ void swap(int*m ,int* j){
 }
 //Just to display the list ~~~
 void display(int a[]){
-
+        
         for(int x =0 ; x<7 ; x++){
                 printf("%d ",a[x]);
         }
@@ -61,9 +32,9 @@ void partition(int a[] , int low, int high){
         int p;
         if(low < high){
                 p = sort(a,low,high);//p is the position of our pivot!
-
+                
                 partition(a,low,p-1); // sort the right side of pivot by the same tecnique
-                partition(a,p+1,high);// sort Left sideof the pivot
+                partition(a,p+1,high);// sort Left sideof the pivot 
         }
 }
 void main(){
@@ -78,7 +49,3 @@ void main(){
         printf("\nsorted :\n");
         display(a);      
 }
-```
-The **OUTPUT** of the QUICKSORT program is :
-<center>
-<img src ="images/qsop.png"/>
