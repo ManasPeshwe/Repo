@@ -5,7 +5,6 @@ Name|Roll Number|Class|Batches (Prac/Tut)|
 This is an recursive program for **BINARY SEARCH** :
 <br>
 ```c
-char s[] = "c "
 #include<stdio.h>
 #include<stdlib.h>
 void main(){
@@ -24,7 +23,7 @@ The **OUTPUT** of the above Program is :
 <center>
 <img src = "images/RandomOUTPUT.png" width = 80% ; height = 80%>
 </center>
-<hr>
+
 The **Program for QUICK SORT** :
 ```c
 #include<stdio.h>
@@ -79,4 +78,5 @@ void main(){
 ```
 The **OUTPUT** of the QUICKSORT program is :
 <center>
-<img src ="images/qsop.png"/>
+<img src ="images/qsop.png"/ width=80% ; height=80%>
+</center>
