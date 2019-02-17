@@ -38,8 +38,7 @@ void swap(int*m ,int* j){
 }
 //Just to display the list ~~~
 void display(int a[]){
-
-        for(int x =0 ; x<7 ; x++){
+        for(int x =0 ; x<10 ; x++){
                 printf("%d ",a[x]);
         }
         printf("\n");
@@ -47,7 +46,6 @@ void display(int a[]){
 int sort(int* a , int low, int high){
         int pivot = a[high];
         int i = (low - 1);
-        int c;
         for(int j = low ; j<=high-1; j++){
                 if(a[j] <= pivot){
                         i++;
@@ -73,7 +71,7 @@ void main(){
                 a[i]= (int)rand()%97+rand()%11+1;
         }
         display(a);
-        high = sizeof(a)/sizeof(a[0]);
+        high = 9;
         partition(a,0,high);
         printf("\nsorted :\n");
         display(a);      
