@@ -2,7 +2,7 @@ Name|Roll Number|Class|Batches (Prac/Tut)|
 :---:|:---:|:---:|:---:
 **Manas Ajay Peshwe**|**216**|**SEB**|**S1/T1**
 
-This is an recursive program for **BINARY SEARCH** :
+This is a program for generating **RANDOM NUMBERS** :
 <br>
 ```c
 #include<stdio.h>
